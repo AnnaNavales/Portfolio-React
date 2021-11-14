@@ -1,0 +1,21 @@
+.about-left {
+    background-color: slategrey;
+    text-align: center;
+}
+.about-image {
+    width: 65vh;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+
+}
+#aboutTitle {
+    padding-bottom: 2vh;
+}
+.aboutText{
+    margin-top: 20px;
+    padding-bottom: 30p;
+}
+.skillList {
+    margin: 0 auto;
+    padding: 0%0;
+}
